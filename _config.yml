@@ -35,5 +35,5 @@ github_username:  "MR.ROBOT"
 #url: "http://blog.rainyalley.com"
 #imgrepo: "http://blog.rainyalley.com/static/img"
 url: "notes"
-imgrepo: "notes/static/img"
+imgrepo: "/static/img"
 
